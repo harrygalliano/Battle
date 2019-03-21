@@ -1,0 +1,15 @@
+body {
+    background-image: url("jolteon-pokemon-go.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: wavy;
+    color: #000000
+}
